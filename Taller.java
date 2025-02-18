@@ -5,7 +5,7 @@ public class Taller {
     public static Scanner cam = new Scanner(System.in);
 
     public static void main(String[] args) {
-     punto1();
+
     }
 
     public static void punto1() {
